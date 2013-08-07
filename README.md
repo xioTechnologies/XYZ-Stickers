@@ -7,6 +7,15 @@ See the [original post]( http://www.x-io.co.uk/xyz-stickers/) on the x-io websit
 
 =========
 
-<img src="https://raw.github.com/xioTechnologies/XYZ-Stickers/master/XYZ.png" alt="IR Theremin" style="width: 600px;"/>
+<img src="https://raw.github.com/xioTechnologies/XYZ-Stickers/master/XYZ.png" style="width: 600px;"/>
 
-<img src="https://raw.github.com/xioTechnologies/XYZ-Stickers/master/XYZ.png" alt="IR Theremin" style="width: 600px;"/>
+<img src="https://raw.github.com/xioTechnologies/XYZ-Stickers/master/XZY.png" style="width: 600px;"/>
+
+<img src="https://raw.github.com/xioTechnologies/XYZ-Stickers/master/YXZ.png" style="width: 600px;"/>
+
+<img src="https://raw.github.com/xioTechnologies/XYZ-Stickers/master/YZX.png" style="width: 600px;"/>
+
+<img src="https://raw.github.com/xioTechnologies/XYZ-Stickers/master/ZXY.png" style="width: 600px;"/>
+
+<img src="https://raw.github.com/xioTechnologies/XYZ-Stickers/master/ZYX.png" style="width: 600px;"/>
+
